@@ -1,3 +1,4 @@
+#안녕하세용 이상윤입니당
 # visualization.py
 """원본 mmw_demo_run_2.py의 MyWidget 클래스 - 디버깅 개선"""
 
